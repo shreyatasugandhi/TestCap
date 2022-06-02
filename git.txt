@@ -1,7 +1,7 @@
 install git --> convert master to main while installing (optional)
 git init
 git config user.name "shreyatasugandhi"
-git config user.password "11Open!!"
+git config user.password "abcd"
 
 
 --> genrate ssh-keygen -> .pub and simple
